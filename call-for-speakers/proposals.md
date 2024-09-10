@@ -86,3 +86,11 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - Python's got Class(es) (a beginner level comparison of using classes in python versus other object-oriented languages)
 - Generators
 
+### Possible Topics from Personal Experiences
+- How to Collide Particles with Python
+- Python prep for Hackathons
+- Python in Local Government
+- Building a Smart City with Python
+- From Pandas to Ibis
+- PySpark in Microsoft Fabric
+- Ansible & Python
