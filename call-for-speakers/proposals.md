@@ -57,6 +57,7 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - Technical Writing for Python
 - Django REST Framework
 - ElasticSearch
+- Polaris
 - Tuples
 - Python Programming Paradigms
 - Type Hints
@@ -68,4 +69,12 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - Data Protection
 - Decorators
 - Multithreading
+- FARM stack (FastAPI, React, MongoDB)
+- Apache Flink
+- Unit Testing
+- Software Licenses
+- Web Frameworks
+- Python Abstract Syntax Tree
+- MicroPython
+- Character Encoding
 - 
