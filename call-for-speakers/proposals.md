@@ -77,4 +77,12 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - Python Abstract Syntax Tree
 - MicroPython
 - Character Encoding
-- 
+
+## Possible Topics for Future Conferences
+### Ideas from the Python Documentation
+- Regular Expressions (a fun game-like presentation)
+- The Standard Modules (beginner level explanation of modules in python)
+- Python Scopes and Namespaces (intermediate level explanation of scopes & namespaces in python)
+- Python's got Class(es) (a beginner level comparison of using classes in python versus other object-oriented languages)
+- Generators
+
