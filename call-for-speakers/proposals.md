@@ -94,3 +94,4 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - From Pandas to Ibis
 - PySpark in Microsoft Fabric
 - Ansible & Python
+- Topic Modelling with Python
