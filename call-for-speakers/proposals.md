@@ -95,3 +95,4 @@ This file serves as brainstorming for possible PyCascades Conference Presentatio
 - PySpark in Microsoft Fabric
 - Ansible & Python
 - Topic Modelling with Python
+- Hosting a Python Website in Azure App Services
